@@ -1,0 +1,64 @@
+site_name: Medicaid 2027 Implementation Guide
+site_url: https://archanacontent.github.io/medicaid-2027-implementation-guide/
+site_description: Work requirements and six-month renewals for state Medicaid programs and their technology partners.
+site_author: Archana Panda
+repo_url: https://github.com/archanacontent/medicaid-2027-implementation-guide
+repo_name: archanacontent/medicaid-2027-implementation-guide
+
+theme:
+  name: material
+  custom_dir: overrides
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  icon:
+    logo: material/clipboard-pulse-outline
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+  - vendor/driver/driver.css
+  - stylesheets/tour.css
+
+extra_javascript:
+  - vendor/driver/driver.js.iife.js
+  - javascripts/tour.js
+
+nav:
+  - Home: index.md
+  - Requirements: requirements.md
+  - Verification And Notices: verification-and-notices.md
+  - Six-Month Renewals: six-month-renewals.md
+  - Systems And Documentation: systems-and-documentation.md
+  - Change Log: change-log.md
+  - Glossary: glossary.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
