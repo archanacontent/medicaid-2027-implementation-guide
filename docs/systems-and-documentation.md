@@ -2,19 +2,19 @@
 
 ## What Changes In Eligibility Systems
 
-- **Eligibility Rules** - new logic for who is subject to the requirement, who is exempt and which months count, applied at application, at renewal and at any extra check the state chooses.
-- **Data Matching** - automated checks against payroll, claims and agency data, so that members who already comply never receive a request.
-- **Notices** - new templates for advance outreach, noncompliance, hardship exceptions and coverage loss, each with the timing rules built in.
-- **Caseworker Task Queues** - work items for cases data can't resolve, sorted by deadline, so the 30-day windows don't lapse unnoticed.
-- **Reporting And Audit Trail** - a record of every check, notice and decision, since each step can be reviewed at a fair hearing.
+- **Eligibility Rules** - New logic sorts members into subject and exempt and decides which months count. It has to run at application, at renewal and at every extra check a state adds.
+- **Data Matching** - Automated checks against payroll, claims and agency data. A member who already complies should never see a request.
+- **Notices** - Templates for advance outreach, noncompliance, hardship exceptions and coverage loss, with each timing rule built into the template itself.
+- **Caseworker Task Queues** - Cases the data can't settle go to a queue sorted by deadline, where a 30-day window can't lapse without someone seeing it.
+- **Reporting And Audit Trail** - Every check, notice and decision gets logged, because any of them can come up at a fair hearing.
 
 ## Documentation Checklist
 
-- **Member Notices** - written in plain language, telling the member what to do, by when and how, before anything else.
-- **Caseworker Procedures** - step-by-step guides for exemptions, hardship requests and cases data can't resolve.
-- **System Release Notes** - a short note for staff with every system change, saying what changed and what they now do differently.
-- **Version History** - a dated record of every change to notices and procedures, ready for audit and fair hearings.
-- **Review Sign-Off** - policy, legal and QA review before anything reaches members.
+- **Member Notices** - Plain language, with the action, the deadline and the method stated before anything else.
+- **Caseworker Procedures** - Step-by-step guides for exemptions, hardship requests and the cases data can't settle.
+- **System Release Notes** - Staff get a short note with every system change, covering what moved and what they now do differently.
+- **Version History** - Keep a record of when each notice and procedure changed. At a fair hearing, one of the first questions will be which version the member was sent.
+- **Review Sign-Off** - Policy, legal and QA should all read a notice before it goes out. If one of them hasn't, it isn't ready to send.
 
 ## Release Notes Template
 
@@ -28,7 +28,7 @@
 
 ## Rewriting A Member Notice
 
-*An example, written to show the approach. It isn't taken from any state's actual notice.*
+*An illustrative example. It isn't taken from any state's notice.*
 
 <div class="mcd-notice" markdown>
 <div markdown>

@@ -3,21 +3,21 @@
 ## How States Must Verify
 
 <span class="mcd-label">Data before paperwork</span>
-States must check information they already hold before asking a member for anything. The rule names payroll data, Medicaid claims and encounter data from the past 12 months, records from other state and local agencies, federal data through CMS's data services hub, and the state's own eligibility records.
+Before a state asks a member for anything, it has to check what it already holds. The rule lists payroll data, 12 months of Medicaid claims and encounter data, records from other state and local agencies, federal data through CMS's data services hub and the state's own eligibility files.
 
 <span class="mcd-label">Self-declaration has a limit</span>
-For medical frailty, states may accept a member's own statement only [through January 2028](https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-interim-final-rule-implementing-medicaid-community), and supporting documentation is required at the next renewal.
+Medical frailty can rest on a member's own statement only [through January 2028](https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-interim-final-rule-implementing-medicaid-community), and the first renewal after that has to include supporting documents.
 
 <span class="mcd-label">Health plans can help, but not decide</span>
-Managed care plans may support outreach and flag members who may be exempt, but they can't make eligibility or compliance decisions.
+Managed care plans are allowed to contact members and point out the ones who may qualify for an exemption, but the call on eligibility or compliance is the state's alone.
 
 ## Notices And The 30-Day Window
 
 <span class="mcd-label">Advance outreach</span>
-States must send the first notice at least three months plus the look-back period before the requirement starts. For a January 1, 2027 start, that meant September 1, 2026 for a one-month look-back and July 1, 2026 for a three-month look-back.
+States owe members a first notice no later than three months, plus the length of the look-back period, ahead of the start date. A state with a one-month look-back and a January 1, 2027 start had to send it by September 1, 2026. With a three-month look-back, the cutoff moved up to July 1, 2026.
 
 <span class="mcd-label">Noncompliance notice</span>
-If the state can't verify compliance, it sends a notice. The member has 30 calendar days to show compliance or an exemption, counted from five days after the date on the notice, and enrolled members keep coverage during that window.
+A state that can't verify compliance sends a notice. From five days after the notice date, the member has 30 calendar days to show compliance or an exemption. Enrolled members stay covered throughout.
 
 <span class="mcd-label">Before coverage ends</span>
-The state must check whether the person qualifies under another Medicaid pathway, give written notice with fair hearing rights, and explain how losing Medicaid may affect Marketplace premium tax credits.
+No one loses coverage until the state has looked for another Medicaid pathway they qualify under. The member also gets a written notice with fair hearing rights, along with an explanation of how losing Medicaid may affect Marketplace premium tax credits.

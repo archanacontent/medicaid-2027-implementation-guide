@@ -4,20 +4,24 @@
 
 Live site: https://archanacontent.github.io/medicaid-2027-implementation-guide/
 
-On January 1, 2027, state Medicaid programs take on two federal mandates at the same time. Adults in the expansion population must demonstrate compliance with a new community engagement requirement, and the same population moves to eligibility renewals every six months. Each change adds verification steps, notices and caseworker decisions to processes that are already stretched. The 2023–24 unwinding showed where that pressure breaks: most coverage losses were procedural, driven by missed documentation rather than ineligibility. For state agencies and their technology partners, readiness depends on systems that verify through existing data, notices members can act on and procedures caseworkers can apply consistently, all in place before the deadline arrives.
+A member who works 90 hours a month can still lose Medicaid in 2027 if the proof doesn't reach the state in time. Most 2023–24 unwinding losses happened that way. From January 1, 2027, expansion adults must meet a new community engagement requirement and renew their coverage every six months instead of once a year. Every extra renewal is another form that can arrive late. In my view, the states that keep eligible people covered will be the ones that check the data they already hold before they ask anyone for proof.
 
 ## What's Inside
 
 | Page | What It Covers |
 | :--- | :--- |
-| [Requirements](docs/requirements.md) | Who must comply, what members must show and who is exempt |
-| [Verification And Notices](docs/verification-and-notices.md) | Data checks before paperwork, and the notice rules before coverage ends |
-| [Six-Month Renewals](docs/six-month-renewals.md) | The renewal rules, transition paths and where the two deadlines collide |
-| [Systems And Documentation](docs/systems-and-documentation.md) | Eligibility system changes, a documentation checklist, a release notes template and a member notice rewrite |
-| [Change Log](docs/change-log.md) | Federal milestones from H.R. 1 to January 2027, and the guide's revision history |
-| [Glossary](docs/glossary.md) | Plain definitions of the key terms |
+| [Requirements](docs/requirements.md) | The 80-hour rule in detail, and the members federal law exempts from it |
+| [Verification And Notices](docs/verification-and-notices.md) | Federal rules on checking existing data first, and on the notice a member gets before coverage ends |
+| [Six-Month Renewals](docs/six-month-renewals.md) | Your transition options as renewals move to every six months, and where they collide with the work rule |
+| [Systems And Documentation](docs/systems-and-documentation.md) | System changes to plan for, plus a documentation checklist and two templates you can adapt |
+| [Change Log](docs/change-log.md) | Each federal milestone from H.R. 1 to January 2027. Revisions to this guide are logged too |
+| [Glossary](docs/glossary.md) | Ex parte renewal and other terms from the guide, in plain language |
 
 Rules and guidance current to October 2026. Every claim links to its source.
+
+## Also In The Series
+
+- [Medically Frail: The Exemption States Can't Afford To Get Wrong](https://archanacontent.github.io/medically-frail-guide/) - Part 2.
 
 ## License
 
@@ -25,4 +29,4 @@ Licensed under [CC BY 4.0](LICENSE).
 
 ## Author
 
-Written and maintained by [Archana Panda](https://archanacontent.github.io), Senior Technical Content Writer.
+Written and maintained by [Archana Panda](https://archanacontent.github.io), Senior Technical Writer.
